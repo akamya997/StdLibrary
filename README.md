@@ -15,3 +15,7 @@ Template for ACM
 ## 渲染
 
 采用pandoc，代码高亮使用minted
+
+## 输出
+
+采用csl的[template-generator](https://github.com/2014CAIS01/template-generator)
