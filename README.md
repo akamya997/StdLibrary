@@ -18,4 +18,4 @@ Template for ACM
 
 ## 输出
 
-采用csl的[template-generator](https://github.com/2014CAIS01/template-generator)
+采用我自己的脚本build.sh，依赖于pandoc与xelatex
