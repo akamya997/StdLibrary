@@ -2,7 +2,7 @@
 
 Template for ACM
 
-由上海大学现役队伍魔菜队维护，队伍[wiki链接](http://modcsl.cn/wiki/index.php/Magic_Vegetable_(2019))。
+模板库由上海大学~现~退役队伍魔菜队（曾经）维护，降维打击（Derivation）曾用，校内各队伍[wiki链接](https://cubercsl.cn/wiki)。
 
 ## 代码风格
 
@@ -18,4 +18,4 @@ Template for ACM
 
 ## 输出
 
-采用我自己的脚本build.sh，依赖于pandoc与xelatex
+采用我自己的脚本build.sh，依赖于pandoc与xelatex生成pdf
